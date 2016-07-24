@@ -261,6 +261,5 @@ The NXT brick is the motion controller for LEGO's robotics system and handles ta
 >   * The Mindstorms system is battery hungry. If things are acting strangely, try using fresh batteries.
 >   * If you are having communication problems between the computer and the NXT brick, try using USB instead of Bluetooth.
 > 	* If the drawing machine starts drawing but does not draw correctly, you may need to check the physical build of the machine. Review the steps in Part 2 this file (above).
-> 
-
+>   * If you are having error in "node-nxt.js:194" see [this issue](https://github.com/GoogleChrome/ChromeWebLab/issues/75)
 
